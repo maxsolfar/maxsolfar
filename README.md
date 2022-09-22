@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/XOpc5fu.png)](https://maxsolfar.dev)
+[![MasterHead](https://i.imgur.com/qXaG4Gf.png)](https://maxsolfar.dev)
 
 <h1 align="center">Hi 👋, I'm Máximo Solis</h1>
 <h4 align="center">A passionate Junior Full Stack Developer from Perú</h4>
