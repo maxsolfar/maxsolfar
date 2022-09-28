@@ -3,6 +3,14 @@
 <h1 align="center">Hi 👋, I'm Máximo Solis</h1>
 <h4 align="center">A passionate Junior Full Stack Developer from Perú</h4>
 
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/maxsolfar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin maxsolfar" height="30" width="40" /></a>
+<a href="https://twitter.com/maxsolfar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter maxsolfar" height="30" width="40" /></a>
+<a href="https://wa.link/6jo3mh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" alt="wp-maxsolfar" height="30" width="40" /></a>
+<a href="mailto:maxsolfar@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="gmail-maxsolfar" height="30" width="40" /></a>
+</p>
+
 ```javascript
 const aboutMe = {
 
