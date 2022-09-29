@@ -1,7 +1,7 @@
 [![MasterHead](https://i.imgur.com/WLEJcx5.png)](https://maxsolfar.dev)
 
 <h1 align="center">Hi 👋, I'm Máximo Solis</h1>
-<h4 align="center">A passionate Junior Full Stack Developer from Perú</h4>
+<h4 align="center">A passionate Full Stack Developer Junior from Perú</h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
