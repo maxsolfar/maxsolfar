@@ -31,8 +31,8 @@ const aboutMe = {
 <p align="center"> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=maxsolfar&theme=dark&show_icons=true&locale=en" alt="maxsolfar" /></p>
+<p align="center" ><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=maxsolfar&theme=dark&show_icons=true&locale=en" alt="maxsolfar" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxsolfar&theme=dark" alt="maxsolfar" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=maxsolfar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Maxsolfar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=maxsolfar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
