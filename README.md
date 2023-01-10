@@ -35,4 +35,8 @@ const aboutMe = {
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxsolfar&theme=dark" alt="maxsolfar" /></p>
 
-[![Maxsolfar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=maxsolfar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxsolfar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+![Maxsolfar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=maxsolfar&theme=react-dark)
