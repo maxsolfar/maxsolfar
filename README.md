@@ -8,7 +8,7 @@
   <p>👯 I’m looking to collaborate on: Javascript | Typescript | PHP, NodeJs, Laravel, and NextJS related projects</p>
   <p>🤔 I’m looking for help with: Anything related to what I am currently learning 😅</p>
   <p>📫 How to reach me <strong>maxsolfar@gmail.com</strong></p>
-  <p>👨‍💻 All of my projects are available at <a href="www.maxsolfar.dev">www.maxsolfar.dev</a></p>
+  <p>👨‍💻 All of my projects are available at <a href="https://www.maxsolfar.dev" target="_blank">www.maxsolfar.dev</a></p>
 </ul>
 
 <h3 align="center">💻 Languages and Tools:</h3>
