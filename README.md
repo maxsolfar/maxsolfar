@@ -1,7 +1,7 @@
-[![MasterHead](https://i.imgur.com/5OQdEzr.png)](https://maxsolfar.dev)
+[![MasterHead](https://i.imgur.com/vAqlNGX.png)](https://maxsolfar.dev)
 
 <h1 align="center" style="color:red">Hi 🤘🏽, I'm Máximo Solis</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Perú</h3>
+<h3 align="center">A passionate UI & Front-End Developer from Perú</h3>
 
 <ul align="center">
   <p>⚡ Quick bio: <span style="color: #3f3f3f;">A kind</span> of metalHead, amateurMusician, foodLover, gamer, coder, programmer</p>
@@ -63,4 +63,4 @@
   </tr>
 </table>
 
-![Maxsolfar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=maxsolfar&theme=react-dark)
+![Maxsolfar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maxsolfar&theme=react-dark)
