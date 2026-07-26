@@ -1,142 +1,246 @@
-# Hi 👋, I'm Máximo Solis
+<div align="center">
 
-### Full Stack Developer | Laravel • Node.js • Next.js • AI Automations
+<img src="https://i.imgur.com/ed4bUnL.png" width="100%" alt="Máximo Solís Banner"/>
 
-<img src="https://i.imgur.com/vAqlNGX.png" alt="banner" width="100%" />
+# 👋 Hi, I'm Máximo Solís
 
-<p align="center">
-  <a href="https://www.maxsolfar.dev">Portfolio</a> •
-  <a href="mailto:maxsolfar@gmail.com">Email</a>
+### Full Stack Engineer • Product Builder • AI Automation Developer
+
+> **Building digital products from interface to infrastructure.**
+
+<p>
+
+<a href="https://www.maxsolfar.dev">
+Portfolio
+</a>
+•
+<a href="mailto:maxsolfar@gmail.com">
+Email
+</a>
+•
+<a href="https://github.com/maxsolfar">
+GitHub
+</a>
+•
+<a href="https://linkedin.com/in/maxsolfar">
+LinkedIn
+</a>
+
+</p>
+
+</div>
+
+---
+
+# 🚀 About
+
+I'm a **Full Stack Engineer** from **Peru 🇵🇪** passionate about designing complete digital products.
+
+I enjoy working across the entire product lifecycle—from **pixel-perfect interfaces** to **scalable backend architectures**, cloud infrastructure, AI integrations and business automation.
+
+My goal is simple:
+
+> Build software that people enjoy using and developers enjoy maintaining.
+
+---
+
+# 🎯 Current Mission
+
+```text
+███████████████░░░░ 75%
+
+CURRENT QUEST
+
+✔ Product Engineering
+✔ AI Integrations
+✔ Backend Architecture
+✔ Modern Frontend
+✔ Cloud Infrastructure
+⬜ Multi-Agent Systems
+⬜ MCP Ecosystem
+```
+
+---
+
+# 🎨 Frontend
+
+I build interfaces focused on clarity, usability and performance.
+
+### I enjoy building
+
+- Product Interfaces
+- Design Systems
+- Dashboards
+- Responsive Applications
+- Accessibility
+- Motion
+- UX
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,astro,vue,flutter,ts,tailwind,vite"/>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# ⚙ Backend
 
-I'm a Full Stack Developer from Peru 🇵🇪 passionate about building scalable web applications, AI-powered assistants, business automations, and modern digital experiences.
+I design systems that continue working long after deployment.
 
-Over the years I've worked across the entire development lifecycle, from frontend interfaces to backend architectures, integrations, APIs, databases, and cloud deployments.
+### Areas
 
-### Current Focus
+- REST APIs
+- Microservices
+- Authentication
+- AI Integrations
+- Business Automation
+- Event Driven Systems
+- Cloud
+- Databases
 
-* 🤖 AI Assistants & LLM Integrations
-* 💬 WhatsApp Business Automations
-* ⚙️ Laravel & Node.js Backends
-* 🚀 Next.js Applications
-* 🔌 API Integrations & Microservices
-* 📈 Business Process Automation
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,mongodb,postgres,mysql,docker,aws"/>
 
-## 🏗️ What I Build
-
-* AI-powered Assistants
-* WhatsApp Sales Bots
-* E-commerce Platforms
-* CRM Systems
-* REST APIs
-* Internal Business Tools
-* Automation Workflows
-* Custom Dashboards
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🏆 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🏔 **Turiago** | Tourism marketplace focused on beautiful booking experiences. |
+| 🤖 **Butik AI** | AI assistants, WhatsApp automation and CRM integrations. |
+| 📊 **Admin General** | Multi-company administration platform with advanced dashboards. |
+| 💼 **Job Hunter** | Desktop productivity application for developers. |
+| 🎮 **BitPortal** | Retro-inspired launcher for organizing game libraries. |
+
+---
+
+# 🤖 AI & Automation
+
+I love building software where AI becomes part of the product.
+
+### Current interests
+
+- OpenAI
+- MCP Servers
+- AI Assistants
+- WhatsApp Business
+- Workflow Automation
+- n8n
+- RAG
+- LangGraph
+
+---
+
+# 🛠 Tech Arsenal
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=ts,js,php"/>
+
+</p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass,materialui" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,astro,vue,flutter,tailwind"/>
+
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel"/>
+
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase"/>
+
 </p>
 
-### DevOps & Tools
+### Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,figma" />
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux"/>
+
 </p>
 
 ---
 
-## 🌱 Currently Exploring
+# 📈 GitHub Activity
 
-* AI Agents
-* MCP Servers
-* Retrieval-Augmented Generation (RAG)
-* LangGraph
-* Advanced LLM Architectures
-* Cloud Infrastructure
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=maxsolfar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## ⭐ Featured Projects
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxsolfar&layout=compact&theme=tokyonight&hide_border=true"/>
 
-### Butik AI Assistant
+<br>
 
-AI-powered WhatsApp sales assistant designed for e-commerce businesses.
+<img src="https://streak-stats.demolab.com?user=maxsolfar&theme=tokyonight&hide_border=true"/>
 
-### Protuner Assistant
+<br>
 
-Automated recommendation and customer support assistant for automotive products.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maxsolfar&theme=react-dark&hide_border=true"/>
 
-### Custom Business Automations
-
-Solutions integrating APIs, messaging platforms, CRMs, and AI services to streamline business operations.
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 💭 Engineering Philosophy
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maxsolfar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxsolfar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+> Great software isn't only about writing code.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maxsolfar&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxsolfar&theme=react-dark&hide_border=true" />
-</p>
+It's about understanding people, designing clear experiences and building systems that remain simple even as complexity grows.
 
 ---
 
-## 📫 Connect With Me
+# 🤝 Let's Build Something
 
-🌐 Website: https://www.maxsolfar.dev
+I'm always interested in collaborating on:
 
-📧 Email: [maxsolfar@gmail.com](mailto:maxsolfar@gmail.com)
-
-💼 Open to collaboration on:
-
-* AI Applications
-* Laravel Projects
-* Node.js APIs
-* Next.js Platforms
-* Business Automation Solutions
+- AI Products
+- SaaS Platforms
+- Product Engineering
+- Backend Architecture
+- Automation Systems
+- Developer Tools
 
 ---
 
-### Fun Facts
+# 🌎 Connect
 
-🎸 Metalhead
+🌐 **Portfolio**
 
-🎮 Gamer
+https://www.maxsolfar.dev
 
-🍔 Food Lover
+📧 **Email**
 
-💻 Builder at heart
+maxsolfar@gmail.com
 
-⚡ Always learning something new
+💼 **LinkedIn**
+
+https://linkedin.com/in/maxsolfar
+
+---
+
+<div align="center">
+
+### ⚡ "From Interface to Infrastructure."
+
+⭐ If you like my work, feel free to explore my repositories.
+
+</div>
