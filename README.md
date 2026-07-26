@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/ed4bUnL.png" width="100%" alt="Máximo Solís Banner"/>
+<img src="https://i.imgur.com/Y6GlVzN.png" width="100%" alt="Máximo Solís Banner"/>
 
 # 👋 Hi, I'm Máximo Solís
 
